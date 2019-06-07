@@ -1,0 +1,27 @@
+header {
+    width: 100%;
+    -webkit-box-shadow: 0px 2px 8px -1px#0000FF;
+    -moz-box-shadow: 0px 2px 8px -1px #0000FF;
+    box-shadow: 0px 2px 8px -1px #0000FF;
+    height: 116px;
+    border-radius: 0% 0% 10% 10% / 0 0 100% 100%;
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    z-index: 2;
+    position: relative;
+}
+
+section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: #00008B;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
